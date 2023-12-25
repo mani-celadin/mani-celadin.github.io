@@ -29,6 +29,6 @@ The following positions are needed at present:
 - General mathematicians
 
 # Useful Links
-(Old) 2022 Spring MCMTS: Click here to view scores
-(Old) 2021 Winter MCME: Click here to view scores
-(Old) Past MCME/MCIME papers and solutions
+- (Old) 2022 Spring MCMTS: Click here to view scores
+- (Old) 2021 Winter MCME: Click here to view scores
+- (Old) Past MCME/MCIME papers and solutions
