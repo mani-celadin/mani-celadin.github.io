@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Why mani-celadin
+subtitle: About mani-celadin
 ---
 
 <head>
