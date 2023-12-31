@@ -8,7 +8,7 @@ subtitle: Mani-Celadin Mathematics Association (MCMA)
 The MCMA is an organization founded by Tata Li and Kevin Shi. MCMA hosts various mathematics activities to develop students' interest in mathematics as well as their mathematical problem-solving capabilities. These activities include (but are not limited to) contests such as the Mani-Celadin Mathematics Examination (MCME), the Mani-Celadin Games (MCOMT), and the Providential Mathematics Olympiad.
 
 # Directors and Event Organizers
-The MCMA is currently directed by Kevin Shi and co-directed by Tata Li. The members of the MCMA are math enthusiasts from around the world. Due to the voluntary and motivation-driven nature of MCMA members, there is no permanent list of MCMA members. The key participants in our projects can be found on this website. However, we do have a team of experts in the field to maintain the quality of our projects. Check out the list here.
+The MCMA is currently directed by Kevin Shi and co-directed by Tata Li. The members of the MCMA are math enthusiasts from around the world. Due to the voluntary and motivation-driven nature of MCMA members, there is no permanent list of MCMA members. The key participants in our projects can be found on this website. However, we do have a team of experts in the field to maintain the quality of our projects. Check out the list [here](https://mani-celadin.github.io/2023-12-31-meet-our-team/).
 
 # Projects and Research
 Here, you can find detailed descriptions and explanations of our activities, as well as prominent research findings behind some of the activities. In addition to educational events, the MCMA conducts research projects to support the general advancement of mathematics in various areas, especially areas which are not well recognized or considered "unimportant". Learn more about our research and projects here.
@@ -26,7 +26,7 @@ The following positions are needed at present:
 - General technical support
 - Committee for MCOMT and Mani-Celadin games
 - General advisor for artificial intelligence theory
-- General mathematicians
+- [General mathematicians](https://mani-celadin.github.io/2023-12-31-meet-our-team/)
 
 # Useful Links
 - (Old) 2022 Spring MCMTS: Click here to view scores
