@@ -26,7 +26,7 @@ Having been educated at multiple schools and lived in communities with diverse c
 Angela is highly proficient in a variety of humanities subjects. She is currently director of the Regulatory of Committee of ProvidentialScience.
 
 # Advisors
-Advisors are usually adult experts who have advised and supported MCMA's work. Some advisors consistently help the MCMA in accomplishing projects, while other advisors are given credit for indirect contributions to specific projects.
+**Advisors are usually adult experts who have advised and supported MCMA's work. Some advisors consistently help the MCMA in accomplishing projects, while other advisors are given credit for indirect contributions to specific projects.**
 
 ## Haonan Zhu
 Haonan Zhu is an educational curriculum designer/researcher with experience in physics, mathematics, modelling, economics, and artificial intelligence. He is currently director of the mathematics education team at BNDS.
